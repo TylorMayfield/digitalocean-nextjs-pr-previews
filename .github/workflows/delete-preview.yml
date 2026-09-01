@@ -1,0 +1,19 @@
+name: Delete App Platform preview
+
+on:
+  pull_request:
+    types: [closed]
+
+permissions:
+  contents: read
+
+jobs:
+  delete-preview:
+    if: github.event.pull_request.head.repo.full_name == github.repository
+    runs-on: ubuntu-latest
+    steps:
+      - uses: digitalocean/app_action/delete@v2
+        with:
+          from_pr_preview: "true"
+          ignore_not_found: "true"
+          token: ${{ secrets.DIGITALOCEAN_APP_PLATFORM_TOKEN }}
