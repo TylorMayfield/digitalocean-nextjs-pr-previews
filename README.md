@@ -4,13 +4,13 @@ This is the companion starter for a minimal Next.js app with one disposable App 
 
 ## Read the guide
 
-[Deploy a Next.js App with Pull Request Previews](https://www.tylor.nz/content/deploy-nextjs-app-with-pull-request-previews)
+[Deploy a Next.js App with Pull Request Previews](https://www.tylor.nz/content/deploy-nextjs-app-with-pull-request-previews?utm_source=github&utm_medium=referral&utm_campaign=digitalocean-guides&utm_content=companion-readme)
 
 ## Disclosure
 
 This README includes a DigitalOcean affiliate link. If you use it, I may earn a commission at no additional cost to you.
 
-[Deploy the starter on DigitalOcean App Platform](https://www.awin1.com/cread.php?s=4757508&v=123996&q=601070&r=3054551)
+[Deploy the starter on DigitalOcean App Platform](https://www.tylor.nz/go/digitalocean?utm_source=github&utm_medium=affiliate&utm_campaign=digitalocean-guides&utm_content=deploy-nextjs-app-with-pull-request-previews&product=app-platform&placement=companion-readme&variant=readme-primary&locale=en)
 
 ## Before you start
 
