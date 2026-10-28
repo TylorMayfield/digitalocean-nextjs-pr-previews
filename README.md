@@ -10,7 +10,7 @@ This is the companion starter for a minimal Next.js app with one disposable App 
 
 This README includes a DigitalOcean affiliate link. If you use it, I may earn a commission at no additional cost to you.
 
-[Deploy the starter on DigitalOcean App Platform](https://www.tylor.nz/go/digitalocean?utm_source=github&utm_medium=affiliate&utm_campaign=digitalocean-guides&utm_content=deploy-nextjs-app-with-pull-request-previews&product=app-platform&placement=companion-readme&variant=readme-primary&locale=en)
+[Review App Platform plans for your preview app](https://www.tylor.nz/go/digitalocean?utm_source=github&utm_medium=affiliate&utm_campaign=digitalocean-guides&utm_content=deploy-nextjs-app-with-pull-request-previews&product=app-platform&placement=companion-readme&variant=readme-primary&locale=en). Each preview is a separate app. Review its displayed price and confirm deletion after closing the pull request.
 
 ## Before you start
 
